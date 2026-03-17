@@ -23,4 +23,8 @@ export const alkhaleejPressLinks = [
     label: "Allsopp & Allsopp – 171 Garden Heights",
     url: "https://www.allsoppandallsopp.com/dubai/about-us/news-videos/1492-Jad-Global-unveils-171-Garden-Heights-in-Jumeirah-Garden-City",
   },
+  {
+    label: "JAD Global – JAD288 portfolio reaches $599m",
+    url: "https://jadglobal.ae/media-center/events-and-media-center/jad-global-breaks-ground-on-jad288-as-portfolio-reaches-599m",
+  },
 ];
